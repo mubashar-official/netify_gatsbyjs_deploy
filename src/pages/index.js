@@ -4,7 +4,7 @@ import * as React from "react"
 const IndexPage = () => {
   return (
     <>
-    <h1>Welcome to build gatsby JS delployment</h1>
+    <h1>Welcome to build gatsby JS delployment netlify</h1>
     </>
   )
 }
